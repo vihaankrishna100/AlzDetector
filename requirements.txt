@@ -1,0 +1,69 @@
+# Core ML
+torch
+torchvision
+torchaudio
+
+# Medical imaging
+nibabel
+opencv-python
+scikit-image
+
+# Data + metrics
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Explainability
+shap
+
+# Grad-CAM (correct working package)
+grad-cam
+
+# Multi-agent framework
+crewai
+crewai-tools
+
+# Utilities
+tqdm
+python-dotenv
+
+# Optional but useful
+albumentations
+
+# Additional packages for codebase completeness
+os
+json
+timm
+glob2
+scipy
+
+# Medical imaging
+nibabel
+opencv-python
+scikit-image
+
+# Data + metrics
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Explainability
+shap
+
+# Grad-CAM (correct working package)
+grad-cam
+
+# Multi-agent framework
+crewai
+crewai-tools
+
+# Utilities
+tqdm
+python-dotenv
+
+# Optional but useful
+albumentations

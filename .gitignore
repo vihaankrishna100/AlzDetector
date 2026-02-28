@@ -1,0 +1,51 @@
+# Ignore large data folders and files
+NIFTI_ONE_PER_SUBJECT/
+NIFTI_RAW/
+NIFTI_RAW_SUBJ/
+NIFTI_REORIENTED/
+NIFTI_SUBJECTS_FINAL/
+NIFTI_T1_ONLY/
+DICOM_SELECTED_91/
+*.nii.gz
+*.dcm
+
+# Ignore outputs and explainability results
+explain_outputs/
+*.json
+*.csv
+*.png
+*.jpg
+*.jpeg
+
+# Ignore Python cache and build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore node and frontend build folders
+node_modules/
+build/
+dist/
+
+# Ignore system files
+Thumbs.db
+
+# Ignore model weights
+model.pth
+
+# Ignore other temp or backup files
+*.save
+*.bak
+*.tmp
+
+# Allow code, configs, and documentation
+!*.py
+!*.md
+!requirements.txt
+!*.sh
+!*.env
