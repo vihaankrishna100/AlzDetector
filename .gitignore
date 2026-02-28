@@ -8,6 +8,7 @@ NIFTI_T1_ONLY/
 DICOM_SELECTED_91/
 *.nii.gz
 *.dcm
+.env
 
 # Ignore outputs and explainability results
 explain_outputs/
@@ -48,4 +49,4 @@ model.pth
 !*.md
 !requirements.txt
 !*.sh
-!*.env
+
